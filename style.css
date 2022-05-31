@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.button{
+width:100px;
+height:70px; 
+}
+canvas {
+  display: block;
+}
+
+
